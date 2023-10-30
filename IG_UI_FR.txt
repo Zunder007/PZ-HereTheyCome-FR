@@ -1,0 +1,27 @@
+IGUI_FR = {
+	IGUI_PlayerText_HTCWarmupReactionPre_01 = "Oh non! Ce son vient de la direction ",
+	IGUI_PlayerText_HTCWarmupReactionPre_02 = "Bordel!! Ce son vient de la direction ",
+    IGUI_PlayerText_HTCWarmupReactionPre_03 = "Putain de??! Que se passe-t-il dans la direction ",
+
+    IGUI_PlayerText_HTCDirection_0 = "Est",
+    IGUI_PlayerText_HTCDirection_1 = "Sud-Est",
+    IGUI_PlayerText_HTCDirection_2 = "Sud",
+    IGUI_PlayerText_HTCDirection_3 = "Sud-Ouest",
+    IGUI_PlayerText_HTCDirection_4 = "Ouest",
+    IGUI_PlayerText_HTCDirection_5 = "Nord-Ouest",
+    IGUI_PlayerText_HTCDirection_6 = "Nord",
+    IGUI_PlayerText_HTCDirection_7 = "Nord-Est",
+
+    IGUI_PlayerText_HTCWarmupReactionPost_01 = ". Faut foutre le camp!",
+    IGUI_PlayerText_HTCWarmupReactionPost_02 = ". Pas de temps à perdre, on se barre!",
+    IGUI_PlayerText_HTCWarmupReactionPost_03 = ". Courez!",
+
+    IGUI_PlayerText_HTCStartReaction_00 = "ILS ARRIVENT!",
+    IGUI_PlayerText_HTCStartReaction_01 = "Ils arrivent encore!",
+    IGUI_PlayerText_HTCStartReaction_02 = "Une autre vague!",
+    IGUI_PlayerText_HTCStartReaction_03 = "Ils continuent à arriver!",
+
+    IGUI_PlayerText_HTCEndReaction_01 = "Enfin! Je pense que nous en avons fini. Ce sont les derniers.",
+    IGUI_PlayerText_HTCEndReaction_02 = "Ils ne viennent plus, semble-t-il. Ce sont les derniers.",
+    IGUI_PlayerText_HTCEndReaction_03 = "C'est fini. Ce sont les derniers.",
+}
